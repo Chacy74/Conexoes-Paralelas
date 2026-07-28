@@ -1,7 +1,7 @@
-# Conexões Paralelas v3.6
+# Conexões Paralelas v3.7
 
 Extraia o ZIP e abra index.html.
 
-Mudanças: conversas rápidas não gastam período; uma estrela para resposta boa, duas para melhor resposta e efeito negativo para resposta ruim; texto digitado; Histórico, Pular, Automático, Salvar, Carregar e Configurações; transições de período; ações longas continuam consumindo tempo.
+Correções: nomes brancos no mapa; botão Voltar não deixa tela preta; cinco personagens disponíveis no dia 1 e cinco no dia 2; primeiro encontro não consome tempo; confirmação antes de passar tempo; cenas não se repetem; estrelas explicadas; resposta boa +1, melhor +2, ruim -1; passar tempo consome o período; texto digitado e controles de visual novel.
 
 Imagens geradas com Microsoft Copilot.
