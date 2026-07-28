@@ -1,5 +1,5 @@
-# Conexões Paralelas v3.8
+# Conexões Paralelas v3.9
 
-Extraia e abra index.html. Correções: mapa permanece como tela principal; estudo fixo na parte inferior; caixa de texto compacta; escolhas invisíveis até o texto terminar; clique no texto completa digitação; slider corrigido; save/load por cinco slots e autosave; indicador do automático; transição imediata antes do retorno ao mapa; afinidade negativa permitida e exibida numericamente.
+Primeiros encontros agora são cenas contextuais com 5-6 caixas, escolhas e consequências, sem consumir tempo. Cada personagem possui três capítulos longos de passar tempo, com narração, diálogo, decisão, reação e encerramento. Saves manuais de protagonistas antigos permanecem de propósito; o menu mostra o nome de cada protagonista.
 
 Imagens geradas com Microsoft Copilot.
