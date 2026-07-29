@@ -1,5 +1,5 @@
-# Conexões Paralelas v4.0
+# Conexões Paralelas v4.1
 
-Inclui: 50 capítulos principais de convivência, cenas ambientais reutilizáveis, atributos, dinheiro, energia, 5 trabalhos, loja, 10 presentes, encontros, eventos aleatórios, eventos de calendário e progressão de 30 dias. Apresentações e falas foram reescritas para soar naturais e contextuais.
+Correção do soft lock: locais de personagens do dia 2 agora mostram uma mensagem segura com duas opções, voltar ao mapa ou estudar e avançar. Nenhum evento aleatório é disparado nesses locais antes do desbloqueio. Toda saída de diálogo possui retorno explícito ao mapa.
 
 Imagens geradas com Microsoft Copilot.
