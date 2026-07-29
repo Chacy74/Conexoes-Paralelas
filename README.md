@@ -1,5 +1,5 @@
-# Conexões Paralelas v3.9
+# Conexões Paralelas v4.0
 
-Primeiros encontros agora são cenas contextuais com 5-6 caixas, escolhas e consequências, sem consumir tempo. Cada personagem possui três capítulos longos de passar tempo, com narração, diálogo, decisão, reação e encerramento. Saves manuais de protagonistas antigos permanecem de propósito; o menu mostra o nome de cada protagonista.
+Inclui: 50 capítulos principais de convivência, cenas ambientais reutilizáveis, atributos, dinheiro, energia, 5 trabalhos, loja, 10 presentes, encontros, eventos aleatórios, eventos de calendário e progressão de 30 dias. Apresentações e falas foram reescritas para soar naturais e contextuais.
 
 Imagens geradas com Microsoft Copilot.
